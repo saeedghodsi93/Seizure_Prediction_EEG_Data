@@ -1,4 +1,4 @@
-# Seizure Prediction Using EEG Data
+# Epileptic Seizure Onset Prediction Using EEG Data
 
 In this project, I've designed and implemented a mathematical model for the prediction of seizure onset using EEG data based on the notion of Functional Brain Connectivity as measured by the Granger Causality index.
 
